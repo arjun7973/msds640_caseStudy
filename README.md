@@ -51,7 +51,7 @@ This repository serves as a centralized hub for all student projects, including 
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
-
+|Wiley Winters | [Code](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/code) | [Slides](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/presentation) | [Report](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/report) |
 
 ---
 
