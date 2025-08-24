@@ -52,6 +52,11 @@ This repository serves as a centralized hub for all student projects, including 
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
 
+| Student Name | Case Study Title | Code | Presentation | Report |
+|--------------|------------------|------|--------------|--------|
+| Naga Arjuna Devarayi | Data Analysis and Case Study Hub | [Code](25Sumr8W2_MSDS640_X70/2025_Summer_Data_Analysis_CaseStudy/code) | [Slides](25Sumr8W2_MSDS640_X70/2025_Summer_Data_Analysis_CaseStudy/presentation/Data_Analysis_and_Case_Study_Hub_Presentation_Final.pptx) | [Report](25Sumr8W2_MSDS640_X70/2025_Summer_Data_Analysis_CaseStudy/report/Report.pdf) |
+| Craig Rudman | |
+
 
 ---
 
