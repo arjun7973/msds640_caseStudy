@@ -51,6 +51,7 @@ This repository serves as a centralized hub for all student projects, including 
 |--------------|------------------|------|--------------|--------|
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
+|Wiley Winters | Algorithm Bias in COMPAS | [Code](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/code) | [Slides](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/presentation) | [Report](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/report) |
 | Nisha Das | Fairness In Credit Scoring | [Code](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Code) | [Presentation](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Presentation) | [Report](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Report) |
 
 ---
