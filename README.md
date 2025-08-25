@@ -52,6 +52,7 @@ This repository serves as a centralized hub for all student projects, including 
 | Name| Title | [Code]() | [Slides]() | [Report]() |
 | Craig Rudman | | | | | |
 |Wiley Winters | Algorithm Bias in COMPAS | [Code](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/code) | [Slides](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/presentation) | [Report](https://github.com/Regis-University-Data-Science/msds640_caseStudy/blob/main/25Sumr8W2_MSDS640_X70/2025_COMPAS_Bias_Case_Study/report) |
+| Nisha Das | Fairness In Credit Scoring | [Code](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Code) | [Presentation](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Presentation) | [Report](https://github.com/nishadas1/msds640_caseStudy/tree/main/25Sumr8W2_MSDS640_X70/2025_Smr_Fairness_in_Credit_Scoring/Report) |
 
 ---
 
@@ -72,5 +73,17 @@ This repository serves as a centralized hub for all student projects, including 
 |Bharath Chandra|Racial Bias in HMDA dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 |Harsha Vardhini|Racial Bias in HMDA Dataset|[code](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/CODE/Racial_Bias_EDTA.ipynb)|[Slides](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/presentation/Final-%20Racial%20Bias%20in%20Loan%20Approvals%20(1).pptx)|[report](25Spr8W2_MSDS640_S70/2025_spring_racial_bias_in_hmda_dataset/report/case_study_final_report.pdf)|
 | Yassine Alami|Bias in AI Predictive Policing|[Code](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Code) | [Slides](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) | [Report](25Spr8W2_MSDS640_S70/2025_Spring_Bias_AI_Predictive_Policing/Report) |
+
+---
+
+
+### 24Fall8W2_MSDS640
+| Name | Case Study Title | 
+|--------------|------------------|
+| Pavan Kalyan Reddy Kamasaani, Praveen Goud Angolla, and Karunakar Thammadi| Ethical AI in Hiring | 
+| Maryi Palacios, Barsha Kakshapatii, and Villi Sigurdsson |Data Breach Analysis: A Comprehensive Study | 
+| Madhuri Kothi, Nahian Arnob, and Chamundeshwari Kottur |Ethical Analysis of Predictive Analytics in Retail Industry |
+| Kommineni Rayudu, Sonam Rinjin Sherpa, Karthik Javvaji, and Raji Reddy |Resume Bias in AI Hiring Systems |
+| Prakriti Dahal, Rabin Acharya, Apurba Poudel, and Adam Khay |Breast Cancer Patient Bias |
 
 ---
